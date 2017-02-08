@@ -6,3 +6,8 @@
 ### Step 1: Generate & Import test data
 
     $ ./run_import.sh
+
+
+### Step 2: Run queries
+
+    $ ./run_queries.sh
