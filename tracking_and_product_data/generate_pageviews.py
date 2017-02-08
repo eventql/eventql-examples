@@ -94,8 +94,8 @@ def write_file(filename, nrows):
       generate_url(product_id),
       generate_user_agent(),
       generate_referrer(),
-      generate_time_on_page(),
       product_id,
+      generate_time_on_page(),
       generate_screen_width(),
       generate_screen_height(),
       generate_is_logged_in()
