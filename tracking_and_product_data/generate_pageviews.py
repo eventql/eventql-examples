@@ -63,7 +63,7 @@ def generate_screen_height():
 
 
 def generate_is_logged_in():
-  return False
+  return "false"
 
 
 def write_file(filename, nrows):
